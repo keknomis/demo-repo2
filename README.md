@@ -11,4 +11,5 @@ Some more text testing
 1. Open index.html in your browser
 
 1. Open index.html in your browser 
-2. Smt
+2. Smt smt 2 
+3. SMT 3 
